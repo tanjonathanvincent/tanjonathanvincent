@@ -19,5 +19,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanjonathanvincent&show_icons=false&theme=gotham&count_private=true&hide=stars,issues,contribs" />
 </a>
 <a href="https://github.com/tanjonathanvincent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjonathanvincent&layout=compact" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjonathanvincent&layout=compact&theme=gotham" />
+</a><br>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tanjonathanvincent&repo=tanjonathanvincent&show_owner=true&theme=gotham)](https://github.com/tanjonathanvincent)
