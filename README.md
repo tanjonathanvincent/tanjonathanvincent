@@ -4,10 +4,12 @@ If there is one thing 2020 taught me, it's learning a language or two to enhance
 
 <!-- I currently work at -->
 <details>
-  <summary><strong>Fun fact</strong></summary>
-  <ul>I don't mind having pineapples on pizza.</ul>
-  <ul>I used to work for minted. as their in-house designer.</ul>
-  <ul>I finished 2 courses in college.</ul>
+  <summary><strong>Fun facts</strong></summary>
+    <ul>
+      <li>I don't mind having pineapples on pizza.</li>
+      <li>I used to work for minted. as their in-house designer.</li>
+      <li>I finished 2 courses in college.</li>
+    </ul>
 </details>
 
 <!--
