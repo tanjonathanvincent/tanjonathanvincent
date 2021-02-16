@@ -12,6 +12,24 @@ If there is one thing 2020 taught me, it's learning a language or two to enhance
     </ul>
 </details>
 
+<details>
+  <summary><strong>Social Sites</strong></summery>
+  <a href="https://keybase.io/imbeincent" rel="noopener" target="_blank">Keybase</a>
+  <a href="https://twitter.com/beincent" rel="noopener" target="_blank">Twitter</a>
+  <a href="https://instagram.com/beincent" rel="noopener" target="_blank">Instagram</a>
+  <a href="https://mstdn.social/@beincent" rel="noopener" target="_blank">Mastodon</a>
+</details>
+
+<details>
+  <summary><strong>Github Stats</strong></summary>
+  <a href="https://github.com/tanjonathanvincent">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanjonathanvincent&show_icons=false&theme=gotham&count_private=true&hide=stars,issues,contribs" />
+  </a>
+  <a href="https://github.com/tanjonathanvincent">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjonathanvincent&layout=compact&theme=gotham" />
+  </a>
+</details>
+
 <!--
 **tanjonathanvincent/tanjonathanvincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,13 +44,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<details>
-  <summary><strong>Github Stats</strong></summary>
-  <a href="https://github.com/tanjonathanvincent">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanjonathanvincent&show_icons=false&theme=gotham&count_private=true&hide=stars,issues,contribs" />
-  </a>
-  <a href="https://github.com/tanjonathanvincent">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjonathanvincent&layout=compact&theme=gotham" />
-  </a>
-</details>
