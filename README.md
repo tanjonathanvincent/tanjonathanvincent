@@ -13,10 +13,10 @@ If there is one thing 2020 taught me, it's learning a language or two to enhance
 </details>
 
 <details>
-  <summary><strong>Social Sites</strong></summery>
-  <a href="https://keybase.io/imbeincent" rel="noopener" target="_blank">Keybase</a>
-  <a href="https://twitter.com/beincent" rel="noopener" target="_blank">Twitter</a>
-  <a href="https://instagram.com/beincent" rel="noopener" target="_blank">Instagram</a>
+  <summary><strong>Social Sites</strong></summary>
+  <a href="https://keybase.io/imbeincent" rel="noopener" target="_blank">Keybase</a> &nbsp;
+  <a href="https://twitter.com/beincent" rel="noopener" target="_blank">Twitter</a> &nbsp;
+  <a href="https://instagram.com/beincent" rel="noopener" target="_blank">Instagram</a> &nbsp;
   <a href="https://mstdn.social/@beincent" rel="noopener" target="_blank">Mastodon</a>
 </details>
 
