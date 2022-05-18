@@ -3,8 +3,9 @@
 If there is one thing 2020 taught me, it's learning a language or two to enhance your skill. I learned C, PHP, and MySQL in college; learned Python and Javascript during the pandemic.
 
 <details>
-  ### Recent Activity
+  <summary><strong>Recent Activity</strong></summary>
   <!--RECENT_ACTIVITY:start-->
+    
 </details>
 
 <details>
