@@ -3,6 +3,11 @@
 If there is one thing 2020 taught me, it's learning a language or two to enhance your skill. I learned C, PHP, and MySQL in college; learned Python and Javascript during the pandemic.
 
 <details>
+  ### Recent Activity
+  <!--RECENT_ACTIVITY:start-->
+</details>
+
+<details>
   <summary><strong>Fun facts</strong></summary>
     <ul>
       <li>I don't mind having pineapples on pizza.</li>
@@ -19,9 +24,7 @@ If there is one thing 2020 taught me, it's learning a language or two to enhance
   <a href="https://linkedin.com/in/tanjonathanvincent" rel="noopener" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </details>
 
-<details>
-  
-</details>
+
 
 <!-- I currently work at -->
 
