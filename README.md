@@ -1,8 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
 If there is one thing 2020 taught me, it's learning a language or two to enhance your skill. I learned C, PHP, and MySQL in college; learned Python and Javascript during the pandemic.
 
-<!-- I currently work at -->
 <details>
   <summary><strong>Fun facts</strong></summary>
     <ul>
@@ -14,21 +13,18 @@ If there is one thing 2020 taught me, it's learning a language or two to enhance
 
 <details>
   <summary><strong>Social Sites</strong></summary>
-  <a href="https://keybase.io/imbeincent" rel="noopener" target="_blank">Keybase</a> &nbsp;
-  <a href="https://twitter.com/beincent" rel="noopener" target="_blank">Twitter</a> &nbsp;
-  <a href="https://instagram.com/beincent" rel="noopener" target="_blank">Instagram</a> &nbsp;
-  <a href="https://mstdn.social/@beincent" rel="noopener" target="_blank">Mastodon</a>
+  <a href="https://twitter.com/beincent" rel="noopener" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a> &nbsp;
+  <a href="https://instagram.com/beincent" rel="noopener" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a> &nbsp;
+  <a href="https://mstdn.social/@beincent" rel="noopener" target="_blank"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white"></a> &nbsp;
+  <a href="https://linkedin.com/in/tanjonathanvincent" rel="noopener" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </details>
 
 <details>
-  <summary><strong>Github Stats</strong></summary>
-  <a href="https://github.com/tanjonathanvincent">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanjonathanvincent&show_icons=false&theme=gotham&count_private=true&hide=stars,issues,contribs" />
-  </a>
-  <a href="https://github.com/tanjonathanvincent">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjonathanvincent&layout=compact&theme=gotham" />
-  </a>
+  
 </details>
+
+<!-- I currently work at -->
+
 
 <!--
 **tanjonathanvincent/tanjonathanvincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
