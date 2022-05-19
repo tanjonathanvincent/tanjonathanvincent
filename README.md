@@ -9,7 +9,6 @@ If there is one thing 2020 taught me, it's learning a language or two to enhance
 2. 💪 Opened PR [#2](https://github.com/tanjonathanvincent/tanjonathanvincent/pull/2) in [tanjonathanvincent/tanjonathanvincent](https://github.com/tanjonathanvincent/tanjonathanvincent)
 3. 🎉 Merged PR [#1](https://github.com/tanjonathanvincent/tanjonathanvincent/pull/1) in [tanjonathanvincent/tanjonathanvincent](https://github.com/tanjonathanvincent/tanjonathanvincent)
 4. 💪 Opened PR [#1](https://github.com/tanjonathanvincent/tanjonathanvincent/pull/1) in [tanjonathanvincent/tanjonathanvincent](https://github.com/tanjonathanvincent/tanjonathanvincent)
-5. 
 <!--RECENT_ACTIVITY:end-->
     
 </details>
